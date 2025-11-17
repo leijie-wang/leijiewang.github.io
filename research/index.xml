@@ -2,10 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Research on Leijie Wang</title>
-    <link>https://acornagain.github.io/leijiewang.github.io/research.html</link>
+    <link>http://localhost:1313/leijiewang.github.io/research/index.html</link>
     <description>Recent content in Research on Leijie Wang</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 12 Nov 2021 14:22:32 +0800</lastBuildDate><atom:link href="https://acornagain.github.io/leijiewang.github.io/research/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/leijiewang.github.io/research/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
